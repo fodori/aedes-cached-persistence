@@ -31,8 +31,8 @@
     "through2": "^2.0.1"
   },
   "dependencies": {
-    "aedes-packet": "^1.0.0",
-    "aedes-persistence": "^5.1.1",
+    "aedes-packet": "https://github.com/fodori/aedes-packet",
+    "aedes-persistence": "https://github.com/fodori/aedes-persistence",
     "fastparallel": "^2.3.0",
     "multistream": "^2.1.0",
     "qlobber": "^1.8.0"
